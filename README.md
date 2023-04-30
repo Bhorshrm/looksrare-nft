@@ -1,1 +1,1 @@
-# looksrare-nft
+# looksrare-nft-subgraph
